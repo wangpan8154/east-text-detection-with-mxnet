@@ -7,8 +7,6 @@ The features are summarized blow:
 
 + Only **RBOX** part is implemented.
 + A fast Locality-Aware NMS in C++ provided by the paper's author.
-+ The pre-trained model provided achieves **80.83** F1-score on ICDAR 2015
-	Incidental Scene Text Detection Challenge using only training images from ICDAR 2015.
 + Differences from original paper
 	+ Use ResNet-50 rather than PVANET
 	+ Use dice loss (optimize IoU of segmentation) rather than balanced cross entropy
@@ -59,10 +57,12 @@ a text file will be then written to the output path.
 
 ### Examples
 Here are some test examples on icdar2015, enjoy the beautiful text boxes!
-![image_1](demo_images/img_2.jpg)
-![image_2](demo_images/img_10.jpg)
-![image_3](demo_images/img_14.jpg)
-![image_4](demo_images/img_26.jpg)
-![image_5](demo_images/img_75.jpg)
+![image_1](demo_images/web-demo.png)
+![image_2](demo_images/img_12.jpg)
+![image_3](demo_images/img_120.jpg)
+![image_4](demo_images/img_126.jpg)
+![image_5](demo_images/img_125.jpg)
+![image_6](demo_images/img_127.jpg)
+![image_7](demo_images/img_26.jpg)
 
 Please let me know if you encounter any issues(my email wangpan8154@163.com and my wechat wp2572201844).
