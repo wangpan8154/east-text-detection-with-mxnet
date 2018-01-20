@@ -15,8 +15,8 @@ The features are summarized blow:
 	+ Use linear learning rate decay rather than staged learning rate decay
 + Speed on 720p (resolution of 1280x720) images:
 	+ Now
-		+ Graphic card: GTX 1080 Ti
-		+ Network fprop: **~50 ms**
+		+ Graphic card: TiTan X
+		+ Network fprop: **~34 ms**
 		+ NMS (C++): **~6ms**
 		+ Overall: **~24 fps**
 
