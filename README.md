@@ -1,4 +1,5 @@
 # EAST: An Efficient and Accurate Scene Text Detector
+This is a mxnet version of [An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155v2) project
 
 ### Introduction
 This is a mxnet re-implementation of [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155v2).
@@ -21,10 +22,13 @@ The features are summarized blow:
 
 Please cite his [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
 
+### Other Implementations
+Thank you all for the efforts! If you have new implementation and want to share with others, feel free to make a pull request or email me!
+1. the origin github implementations [tensorflow](https://github.com/argman/EAST.git)
+
 ### Contents
 1. [Installation](#installation)
 2. [Download](#download)
-2. [Demo](#demo)
 3. [Test](#train)
 4. [Train](#test)
 5. [Examples](#examples)
