@@ -57,12 +57,11 @@ a text file will be then written to the output path.
 
 ### Examples
 Here are some test examples on icdar2015, enjoy the beautiful text boxes!
-![image_1](demo_images/web-demo.png)
-![image_2](demo_images/img_12.jpg)
-![image_3](demo_images/img_120.jpg)
-![image_4](demo_images/img_126.jpg)
-![image_5](demo_images/img_125.jpg)
-![image_6](demo_images/img_127.jpg)
-![image_7](demo_images/img_26.jpg)
+![image_1](output/web-demo.png)
+![image_2](output/img_12.jpg)
+![image_4](output/img_126.jpg)
+![image_5](output/img_125.jpg)
+![image_6](output/img_127.jpg)
+![image_7](output/img_26.jpg)
 
 Please let me know if you encounter any issues(my email wangpan8154@163.com and my wechat wp2572201844).
